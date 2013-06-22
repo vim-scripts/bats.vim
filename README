@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4628
+
+Extends the built in shell highlighting (sh.vim) for Bats - Bash Automated Testing System.
+
+Please see project page for more information or to report issues: 
+https://github.com/rosstimson/bats.vim
+
+For more information on Bats please see:
+https://github.com/sstephenson/bats
